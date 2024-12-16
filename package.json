@@ -51,6 +51,10 @@
     "node": "^16.0",
     "npm": "^6.5.x"
   },
+  "engines": {
+    "node": ">=16.0",
+    "npm": ">=6.5.x"
+},
   "devDependencies": {
     "browserify": "^13.1.1",
     "nodemon": "^2.0.7",
